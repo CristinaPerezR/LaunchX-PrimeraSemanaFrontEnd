@@ -57,3 +57,5 @@ Laura es una persona muy proactiva en su trabajo. Es Ingeniera Industrial titula
 - Activos en las redes sociales 
 - Les guste el orden y la organización aplicada en cada parte de su vida 
 - Trabajadoras 
+
+![image](https://github.com/CristinaPerezR/LaunchX-PrimeraSemanaFrontEnd/blob/a59fcb65661e837234f2681026dd18122f300883/publico%20objetivo.png)
