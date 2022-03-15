@@ -34,7 +34,7 @@ Laura es una persona muy proactiva en su trabajo. Es Ingeniera Industrial titula
 
 **Necesidades:** Requiere personal que la respete y valore su posición de liderazgo para cumplir con sus objetivos dentro de la empresa. 
 
-!(https://github.com/CristinaPerezR/LaunchX-PrimeraSemanaFrontEnd/blob/a59fcb65661e837234f2681026dd18122f300883/Buyer%20persona.png)
+![image](https://github.com/CristinaPerezR/LaunchX-PrimeraSemanaFrontEnd/blob/a59fcb65661e837234f2681026dd18122f300883/Buyer%20persona.png)
 
 ## Público Objetivo: 
 ### Perfil Geográfico:
